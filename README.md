@@ -18,6 +18,6 @@ The lines of code borrowed from the guidelines provided by Correlation With Pyth
 
 3. **ChatGPT: Interquartile Range (IQR) method**
    
-The lines of code borrowed from the guidelines provided by ChatGPT were used in cells 33, 34, 36, 38
+The lines of code borrowed from the guidelines provided by ChatGPT were used in cells 36, 38, 46, 47
    - Author(s): N/A
    - Link: N/A
