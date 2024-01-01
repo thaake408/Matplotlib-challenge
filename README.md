@@ -6,18 +6,18 @@
 
 1. **Python Data Science Handbook: Aggregation and Grouping**
    
-The lines of code borrowed from the guidelines provided by Python Data Science Handbook were used in cell 134
+The lines of code borrowed from the guidelines provided by Python Data Science Handbook were used in cell 10
    - Author(s): Jake VanderPlas
    - Link: [Aggregation and Grouping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html#Aggregate,-Filter,-Transform,-Apply)
 
-2. **W3 Schools: Pandas DataFrame nunique() Method**
+2. **NumPy, SciPy, and pandas: Correlation With Python**
    
-The lines of code borrowed from the guidelines provided by W3 Schools were used in cells 6 and 7
-   - Author(s): N/A
-   - Link: [W3 Schools](https://www.w3schools.com/python/pandas/ref_df_nunique.asp#:~:text=The%20nunique()%20method%20returns,unique%20values%20for%20each%20row.)
+The lines of code borrowed from the guidelines provided by Correlation With Python were used in cell 46
+   - Author(s): Mirko Stojiljković
+   - Link: [Correlation With Python](https://realpython.com/numpy-scipy-pandas-correlation-python/)
 
-3. **Tutorials Point: How to get the mean of a specific column in a dataframe in Python?**
+3. **ChatGPT: Interquartile Range (IQR) method**
    
-The lines of code borrowed from the guidelines provided by AmitDiwan from Tutorials Point were used in cells 9-10, 19, 21, 36, 43, 47, 51, 54
-   - Author(s): AmitDiwan
-   - Link: [Tutorials Point](https://www.tutorialspoint.com/how-to-get-the-mean-of-a-specific-column-in-a-dataframe-in-python)
+The lines of code borrowed from the guidelines provided by ChatGPT were used in cells 36, 38, 40, 47
+   - Author(s): N/A
+   - Link: N/A
